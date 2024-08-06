@@ -1,0 +1,14 @@
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\bin\Debug\WinFrormsApp1.exe.config
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\bin\Debug\WinFrormsApp1.exe
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\bin\Debug\WinFrormsApp1.pdb
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\obj\Debug\WinFrormsApp1.csproj.AssemblyReference.cache
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\obj\Debug\WinFrormsApp1.Properties.Resources.resources
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\obj\Debug\WinFrormsApp1.csproj.GenerateResource.cache
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\obj\Debug\WinFrormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\obj\Debug\WinFrormsApp1.exe
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\obj\Debug\WinFrormsApp1.pdb
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\obj\Debug\WinFormsApp1.MathGameForm.resources
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\maysa\source\repos\WinFrormsApp1\WinFrormsApp1\obj\Debug\WinFrorm.4FAEAB4A.Up2Date

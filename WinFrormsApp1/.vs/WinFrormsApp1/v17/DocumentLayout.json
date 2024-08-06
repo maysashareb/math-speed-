@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B3A793-8900-4A6E-A6F4-5D152D6AF383}|WinFrormsApp1\\WinFrormsApp1.csproj|C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\winfrormsapp1\\mathgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B3A793-8900-4A6E-A6F4-5D152D6AF383}|WinFrormsApp1\\WinFrormsApp1.csproj|solutionrelative:winfrormsapp1\\mathgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B3A793-8900-4A6E-A6F4-5D152D6AF383}|WinFrormsApp1\\WinFrormsApp1.csproj|c:\\users\\maysa\\source\\repos\\winfrormsapp1\\winfrormsapp1\\mathgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B3A793-8900-4A6E-A6F4-5D152D6AF383}|WinFrormsApp1\\WinFrormsApp1.csproj|solutionrelative:winfrormsapp1\\mathgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B3A793-8900-4A6E-A6F4-5D152D6AF383}|WinFrormsApp1\\WinFrormsApp1.csproj|C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\winfrormsapp1\\mathgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45B3A793-8900-4A6E-A6F4-5D152D6AF383}|WinFrormsApp1\\WinFrormsApp1.csproj|solutionrelative:winfrormsapp1\\mathgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B3A793-8900-4A6E-A6F4-5D152D6AF383}|WinFrormsApp1\\WinFrormsApp1.csproj|C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\winfrormsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B3A793-8900-4A6E-A6F4-5D152D6AF383}|WinFrormsApp1\\WinFrormsApp1.csproj|solutionrelative:winfrormsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathGame.cs",
+              "DocumentMoniker": "C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\WinFrormsApp1\\MathGame.cs",
+              "RelativeDocumentMoniker": "WinFrormsApp1\\MathGame.cs",
+              "ToolTip": "C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\WinFrormsApp1\\MathGame.cs",
+              "RelativeToolTip": "WinFrormsApp1\\MathGame.cs",
+              "ViewState": "AQIAAIwBAAAAAAAAAAAcwKgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:25:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\WinFrormsApp1\\MathGame.cs",
+              "RelativeDocumentMoniker": "WinFrormsApp1\\MathGame.cs",
+              "ToolTip": "C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\WinFrormsApp1\\MathGame.cs [Design]",
+              "RelativeToolTip": "WinFrormsApp1\\MathGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:48:41.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathGame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\WinFrormsApp1\\MathGame.Designer.cs",
+              "RelativeDocumentMoniker": "WinFrormsApp1\\MathGame.Designer.cs",
+              "ToolTip": "C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\WinFrormsApp1\\MathGame.Designer.cs",
+              "RelativeToolTip": "WinFrormsApp1\\MathGame.Designer.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAcwPAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:24:34.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\WinFrormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFrormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\maysa\\source\\repos\\WinFrormsApp1\\WinFrormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFrormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:25:35.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 998,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
